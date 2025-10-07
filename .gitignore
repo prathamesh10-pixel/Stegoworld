@@ -1,0 +1,57 @@
+
+# Python & Virtual Environment
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.env
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+
+# IDE & Editor Files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+
+# OS Generated Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Project Specific
+
+# Output or test images
+encoded_images/
+decoded_output/
+test_output/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Tkinter window cache or logs
+logs/
+*.log
+
+
+# Backup / Archive
+
+*.zip
+*.tar
+*.tar.gz
+*.rar
