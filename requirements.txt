@@ -1,0 +1,7 @@
+# Core dependencies
+pillow==10.4.0        # For image processing and steganography
+tkintertable==1.3.3   # Optional GUI enhancements (if needed, else remove)
+pybase64==1.3.2       # For Base64 encoding/decoding (can use built-in base64 too)
+
+# Optional utilities
+customtkinter==5.2.1  # For modern-themed Tkinter GUI (optional, use if you implemented it)
